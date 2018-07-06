@@ -1,0 +1,13 @@
+cluster dispatch system
+
+    task_client.py: Client  run in login node
+    task_master.py: Service run in manage node
+    task_slave.py : Service run in compute node
+
+
+need library:
+    sqilte3
+    aiomas
+
+
+ developed by Miaoren Xia (xiamr@ihep.ac.cn)
