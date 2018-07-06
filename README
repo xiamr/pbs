@@ -6,7 +6,7 @@ cluster dispatch system
 
 
 need library:
-    sqilte3
+    sqlite3
     aiomas
 
 
